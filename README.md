@@ -9,12 +9,12 @@ This project is part of the CSE0001 Digital Literacy course at VIT Bhopal. The a
 
 ##  Project Structure
 
-- report/ → Final project report
-- task-1-presentation/ → Infographic
-- task-2-portfolio/ → Profile screenshots
-- task-3-platforms/ → Coding + Google Form
-- task-4-email-etiquette/ → Emails + checklist
-- task-5-cybercrime/ → Case study + prevention tips
+- report → Final project report
+- task-1-presentation → Infographic
+- task-2-portfolio → Profile screenshots
+- task-3-platforms → Coding + Google Form
+- task-4-email-etiquette → Emails + checklist
+- task-5-cybercrime → Case study + prevention tips
 
 
 ##  Module Summary
